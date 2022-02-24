@@ -1,5 +1,11 @@
 # Dokumentation
 
-## Minimum Viable Product (MVP) -- Datenmodell
+## Minimum Viable Product (MVP)
 
-![Minimum Viable Product](retikulo-mvp-class-diagram.svg)
+**Klassendiagramm**
+
+![Klassendiagramm](retikulo-mvp-class-diagram.svg)
+
+**Use-Case-Diagramm**
+
+![Use-Case-Diagram](retikulo-mvp-activity-diagram.svg)
